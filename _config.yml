@@ -1,14 +1,14 @@
 # Site settings
-title: Abouba.io   
+title: Abouba's Portfolio
 
 description: Personal Site and Portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Abouba _io
-user_description: I'm a Fullstack Developer with 3 years of experience bulding cross-platform applications; I work on mobile applications(both android and ios) and web based applications using modern web technologies.
-user_title: Developer // Designer 
+username: Abouba 
+user_description: Residing in kigali rwanda im a Full stack web & mobile developper and part time graphic designer & bounty hacker ,i love minimalistic and responsive designs with robust back end , i beleive in cross platform prograns with one code base runing on multiple devices thus using modern technologies like  MEAN.JS ,IONIC & ELECTRON
+user_title: Full stack web & mobile developer // designer 
 email: bitiabt@gmail.com
 twitter_username: bitiabt
 github_username:  boubex
