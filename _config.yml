@@ -6,9 +6,9 @@ description: Personal Site and Portfolio
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Abouba
+username:
 user_description: Just another creative in Kigali.
-user_title: Full stack web & mobile developer // designer 
+user_title: Full stack developer // designer
 email: bitiabt@gmail.com
 twitter_username: bitiabt
 github_username:  boubex
